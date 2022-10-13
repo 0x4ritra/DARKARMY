@@ -15,14 +15,14 @@
   
   ### <p align="center">DARKARMY<p align="center">
 <p align=center>
-  <a href="https://www.instagram.com/0x1ucif3r"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
-  <a href="https://www.instagram.com/0x1ucif3r"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=2.0&x2=0" ></a>
-  <a href="https://www.instagram.com/0x1ucif3r"><img title="Stars" src="https://img.shields.io/github/stars/D4RK-4RMY/DARKARMY?style=social" ></a>
-  <a href="https://github.com/1ucif3r/network/members"><img title="Forks" src="https://img.shields.io/github/forks/D4RK-4RMY/DARKARMY?color=red&style=flat-square"></a>
-  <a href="https://github.com/1ucif3r"><img title="Watching" src="https://img.shields.io/github/watchers/D4RK-4RMY/DARKARMY?label=Watchers&color=blue&style=flat-square"></a>
+  <a href="https://www.instagram.com/aritr_a_sen"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
+  <a href="https://www.instagram.com/aritr_a_sen"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=2.0&x2=0" ></a>
+  <a href="https://www.instagram.com/aritr_a_sen"><img title="Stars" src="https://img.shields.io/github/stars/D4RK-4RMY/DARKARMY?style=social" ></a>
+  <a href="https://github.com//network/members"><img title="Forks" src="https://img.shields.io/github/forks/D4RK-4RMY/DARKARMY?color=red&style=flat-square"></a>
+  <a href="https://github.com/"><img title="Watching" src="https://img.shields.io/github/watchers/D4RK-4RMY/DARKARMY?label=Watchers&color=blue&style=flat-square"></a>
  
 ###### <p align="center">*This is official repository maintained by Us.*
-###### <p align="center"> [**D4RK4RMY**](https://dark4rmy.in/) ❤️ By [**1ucif3r**](https://www.instagram.com/0x1ucif3r/)
+###### <p align="center"> [**D4RK4RMY**](https://dark4rmy.in/) ❤️ By [**aritr_a_sen**](https://www.instagram.com/aritr_a_sen/)
 ###### <p align="center"> *You can check our [WebSite](https://dark4rmy.in/)✌*
 
 ###### <p align="center">DARKARMY is a Collection Of Penetration Testing Tools, you will have every script that a hacker needs<p align="center">
@@ -148,21 +148,12 @@ Open [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 `python2 darkarmy.py`
 
-  ## YouTube Demo :
-  https://youtu.be/qFXNP80rEQc
-  
-  ## ScreenShot :
 
-<p align="center">
-  <img src="https://github.com/1ucif3r/DARKARMY/blob/main/demo.png" alt="darkarmy Logo"/>
-</p>  
-  
   
   ### Development By :
 
-Developer / Author: [1ucif3r](https://github.com/1ucif3r)
+Developer / Author: [0X4ritra](https://github.com/0x4ritra)
 
-Contributor : [Mr.robot](https://github.com/0xMrR0b0t)
 
 ### <h2 align="center">😈 Visit 😈  </h2>
 
