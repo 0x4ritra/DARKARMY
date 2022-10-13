@@ -53,7 +53,7 @@ echo "  ██████  ██   ██ ██   ██ ██   ██ █�
 echo "                                                                             ";
 echo "                                     Welcome To DARKARMY Installer           ";
 echo -e "${GREEN}===================================================================${NC} "                                                                                                                                                                                                                                
-echo -e "${BLUE}   www.dark4rmy.in | Instagram.com/0x1ucif3r | Github.com/D4RK-4RMY ${NC}"
+echo -e "${BLUE}   www.dark4rmy.in | Instagram.com/aritr_a_sen | Github.com/D4RK-4RMY ${NC}"
 echo -e "${GREEN}===================================================================${NC}          "
 echo -e "${RED}                                   [!] This Tool Must Run As ROOT [!]${NC}\n"
 echo ""
