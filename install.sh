@@ -83,7 +83,7 @@ fi
 
 echo "[✔] Installing ...";
 echo "";
-git clone https://github.com/D4RK-4RMY/DARKARMY.git "$INSTALL_DIR";
+git clone https://github.com/0x4ritra/DARKARMY.git "$INSTALL_DIR";
 echo "#!/bin/bash
 python2 $INSTALL_DIR/darkarmy.py" '${1+"$@"}' > DARKARMY;
 chmod +x DARKARMY;
