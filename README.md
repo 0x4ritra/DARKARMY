@@ -93,9 +93,9 @@
 
 This Tool Must Run As ROOT !!!
 
-`git clone https://github.com/0x4ritra/DARKARMY-.git`
+`git clone https://github.com/0x4ritra/DARKARMY.git`
 
-`cd 0x4ritra`
+`cd DARKARMY`
 
 `chmod +x install.sh`
 
@@ -112,9 +112,9 @@ Open [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 `pkg install python`
 
-`git clone https://github.com/0x4ritra/DARKARMY-.git`
+`git clone https://github.com/0x4ritra/DARKARMY.git`
 
-`cd 0x4ritra`
+`cd DARKARMY`
 
 `chmod +x darkarmy.py`
 
