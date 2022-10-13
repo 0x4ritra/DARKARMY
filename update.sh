@@ -37,7 +37,7 @@ cd DARKARMY
 
 clear
 
-git clone https://github.com/0x4ritra/DARKARMY-.git
+git clone https://github.com/0x4ritra/DARKARMY.git
 
 clear
 
